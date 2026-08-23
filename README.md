@@ -33,8 +33,20 @@ tions”. In the PharML 2021, Workshop at ECML PKDD 2021, 2021.
 tions”. In the AI for Public Health Workshop at ICLR, 2021.
 15. Marcos Aguilera, Naama Ben-David, Rachid Guerraoui, __Virendra J. Marathe__, Athanasios Xygkis, Igor Zablotchi, “Microsecond Consensus for Microsecond Applications”.
 In the 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI), November 2020.
-16. Rachid Guerraoui, Alex Kogan, __Virendra J. Marathe__, Igor Zablotchi, “Efficient Multiword Compare and Swap”. In the 34th International Symposium on Distributed Com-
-puting (DISC), September 2020.
+16. Rachid Guerraoui, Alex Kogan, __Virendra J. Marathe__, Igor Zablotchi, “Efficient Multiword Compare and Swap”. In the 34th International Symposium on Distributed Computing (DISC), September 2020.
+17. Ahmed Alquraan, Alex Kogan, __Virendra J. Marathe__, Samer Al-Kiswany, “Scalable, Near-Zero Loss Disaster Recovery for Distributed Data Stores”. In the 46th International Conference on Very Large Data Bases (VLDB), September 2020.
+18. Mark Sutherland, Siddharth Gupta, Babak Falsafi, __Virendra J. Marathe__, Dionisios Pnevmatikatos, Alexandros Daglis, “The Nebula RPC-Optimized Architecture”. In the 47th International Symposium on Computer Architecture (ISCA), June 2020.
+19. Daniel Peterson, Pallika Kanani, __Virendra J. Marathe__, “Private Federated Learning with Domain Adaptation”. Received Distinguished Paper Award at the Workshop
+on Federated Learning for Data Privacy and Confidentiality at NeurIPS 2019 (FL-NeurIPS), December 2019.
+20. Sanidhya Kashyap, Dai Qin, Steve Byan, __Virendra J. Marathe__, Sanketh Nalli, “Correct, Fast Remote Persistence”. In https://arxiv.org/abs/1909.02092, September 2019.
+21. Marcos K. Aguilera, Naama Ben-David, Rachid Guerraoui, __Virendra J. Marathe__, Igor Zablotchi, “The Impact of RDMA on Agreement”. In the 2019 ACM Symposium on
+Principles of Distributed Computing (PODC), July 2019.
+22. Matej Pavlovic, Alex Kogan, __Virendra J. Marathe__, Tim Harris, “Brief Announcement: Persistent Multi-Word Compare-and-Swap”. In the 2018 ACM Symposium on Principles of Distributed Computing (PODC), July 2018.
+23. Yihe Huang, Matej Pavlovic, __Virendra J. Marathe__, Margo Seltzer, Tim Harris, Steve Byan, “Closing the Performance Gap Between Volatile and Persitent Key-Value Stores
+Using Cross-Referencing Logs”. In the 2018 USENIX Annual Technical Conference (USENIX ATC), July 2018.
+24. Margo Seltzer, __Virendra J. Marathe__, Steve Byan, “An NVM Carol”. Invited paper/talk in the 34th International Conference on Data Engineering (ICDE), April 2018.
+25. __Virendra J. Marathe__, Achin Mishra, Amee Trivedi, Yihe Huang, Faisal Zaghloul, Sanidhya Kashyap, Margo Seltzer, Tim Harris, Steve Byan, Bill Bridge, Dave Dice, “Persistent Memory Transactions”. In https://arxiv.org/abs/1804.00701, April 2018.
+26. Michal Friedman, Maurice Herlihy, __Virendra J. Marathe__, Erez Petrank, “A Persistent Lock-Free Queue for Non-Volatile Memory”. In the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), February 2018.
 
 <!--
 **virmarathe/virmarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
