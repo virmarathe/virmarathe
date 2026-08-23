@@ -1,6 +1,5 @@
 # Brief Biography
-I'm a researcher at Oracle working on interesting ML/AI problems and applications.  My career spans a broad range of computer science fields culminating in research on Privacy Preserving Machine Learning, and more recently, Security in the age of modern Agentic AI settings. My team’s research focuses on Federated Learning, Differential Privacy, and security problems in Large Language Models. I am interested in continuing down this path and building next generation privacy preserving AI systems that can scale to huge models and dynamic agentic settings. My prior experience includes
-leading research in Distributed Systems, Storage Systems, Graph Analytics, and Concurrency Control problems.
+I'm a researcher at Oracle working on interesting ML/AI problems and applications.  My career spans a broad range of computer science fields culminating in research on Privacy Preserving Machine Learning, and more recently, Security in the age of modern LLMs and Agentic AI settings. My prior experience includes leading research at Oracle Labs (formerly Sun Labs) in Distributed Systems, Storage Systems, Graph Analytics, and Concurrency Control problems.
 
 <!--
 **virmarathe/virmarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
