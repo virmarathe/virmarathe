@@ -7,7 +7,9 @@ I'm a researcher at Oracle working on interesting ML/AI problems and application
 - M.C.S. in Computer Science at University of Pune, 2000
 
 ## Current Status
-__Position__: Applied Scientist Architect at Oracle\n
+
+__Position__: Applied Scientist Architect at Oracle
+
 __Work__: Leading research on Privacy Preserving Machine Learning and Security in the age of modern Agentic AI settings and LLMs.
 
 ## Publications
