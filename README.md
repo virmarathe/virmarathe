@@ -6,8 +6,9 @@ I'm a researcher at Oracle working on interesting ML/AI problems and application
 - M.S. in Computer Science at University of Iowa, 2003
 - M.C.S. in Computer Science at University of Pune, 2000
 
-## Current Position
-Applied Scientist Architect at Oracle: Leading research on Privacy Preserving Machine Learning and Security in the age of modern Agentic AI settings and LLMs.
+## Current Status
+__Position__: Applied Scientist Architect at Oracle
+__Work__: Leading research on Privacy Preserving Machine Learning and Security in the age of modern Agentic AI settings and LLMs.
 
 ## Publications
 1. Bargav Jayaraman, Hamid Mozaffari, __Virendra J. Marathe__, Swetasudha Panda, “Auditing Moderation Robustness Under Realistic Settings”. In the 3rd Annual Conference on Language Modeling (COLM 2026).
