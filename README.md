@@ -88,6 +88,16 @@ Using Cross-Referencing Logs”. In the 2018 USENIX Annual Technical Conference 
 64. __Virendra J. Marathe__, William N. Scherer III, and Michael L. Scott, “Design Tradeoffs in Modern Software Transactional Memory Systems”. In Proceedings of the 7th Workshop on Languages, Compilers, and Run-time Support for Scalable Systems (LCR’04), October 2004.
 65. __Virendra J. Marathe__ and Ted Herman, “The Design of an Interval Routing Enabled Publish/Subscribe Communications Protocol for Ad Hoc Sensor Networks”. In the Proceedings of the Fall 2002 Midwest Society of Programming Languages and Systems Workshop (MSPLS’02), November 2002.
 
+## Technical Reports
+
+66. __Virendra J. Marathe__ and Mark Moir, “Efficient Nonblocking Software Transactional Memory”. TR 932, Department of Computer Science, University of Rochester, March 2008.
+67. __Virendra J. Marathe__ and Michael L. Scott, “Transaction Safe Ad Hoc Nonblocking Data Structures”. TR 924, Department of Computer Science, University of Rochester, September 2007.
+68. Michael F. Spear, __Virendra J. Marathe__, Luke Dalessandro, and Michael L. Scott, “Privatization Techniques for Software Transactional Memory”. TR 915, Department of Computer Science, University of Rochester, February 2007.
+69. __Virendra J. Marathe__, Michael F. Spear, Christopher Heriot, Athul Acharya, David Eisenstat, William N. Scherer III, and Michael L. Scott, “Lowering the Overhead of Software Transactional Memory”. TR 893, Department of Computer Science, University of Rochester, March 2006.
+70. Arrvindh Shriraman, __Virendra J. Marathe__, Sandhya Dwarkadas, Michael L. Scott, David Eisenstat, Christopher Heriot, William N. Scherer III, and Michael F. Spear, “Hardware Acceleration of Software Transactional Memory”. TR 887, Department of Computer Science, University of Rochester, March 2006.
+71. __Virendra J. Marathe__, William N. Scherer III, and Michael L. Scott, “Adaptive Software Transactional Memory”. TR 868, Department of Computer Science, University of Rochester, May 2005.
+72. __Virendra J. Marathe__ and Michael L. Scott, “A Qualitative Survey of Modern Software Transactional Memory Systems”. TR 839, Department of Computer Science, University of Rochester, June 2004.
+
 <!--
 **virmarathe/virmarathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
