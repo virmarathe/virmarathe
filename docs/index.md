@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Virendra J. Marathe
 ---
 ## Brief Biography
