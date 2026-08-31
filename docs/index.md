@@ -7,9 +7,9 @@ title: Virendra J. Marathe
 ## Brief Biography
 I'm a researcher at Oracle working on interesting ML/AI problems and applications.  My career spans a broad range of computer science fields culminating in research on Privacy Preserving Machine Learning, and more recently, Security in the age of modern Agentic AI settings and LLMs. My prior experience includes research at Oracle Labs (formerly Sun Labs) in Distributed Systems, Storage Systems, Graph Analytics, and Concurrency Control problems.
 
-[LinkedIn](https://www.linkedin.com/in/virendra-marathe-bb799)
+[<u>LinkedIn</u>](https://www.linkedin.com/in/virendra-marathe-bb799)
 
-[Google Scholar](https://scholar.google.com/citations?user=kPfDPOAAAAAJ&hl=en)
+[<u>Google Scholar</u>](https://scholar.google.com/citations?user=kPfDPOAAAAAJ&hl=en)
 
 ## Education
 - Ph.D. in Computer Science at University of Rochester, 2008
